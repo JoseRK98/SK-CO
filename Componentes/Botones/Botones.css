@@ -1,0 +1,17 @@
+button{
+    display: inline-block;
+    margin-top: 77px;
+    background-color: #F99963;
+    font-size: 1.17em;
+    font-family: cursive;
+    color: #F2E957;
+    padding: 10px 16px;
+    text-align: center;
+    transition: all 300ms;
+    border: #F29B57 solid 1px;
+}
+
+button:hover{
+    background-color: #F25C57;
+    color: black;
+}
